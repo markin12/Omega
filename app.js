@@ -3,15 +3,15 @@
 
 ///Edit Under This only
 
-var firebaseConfig = {
-  apiKey: "api-key",
-  authDomain: "project-id.firebaseapp.com",
-  databaseURL: "https://project-id.firebaseio.com",
-  projectId: "project-id",
-  storageBucket: "project-id.appspot.com",
-  messagingSenderId: "sender-id",
-  appId: "app-id",
-  measurementId: "G-measurement-id",
+const firebaseConfig = {
+  apiKey: "AIzaSyBMdA4Hyn2zz4uKkmFjlpWX0V2btm_nHDU",
+  authDomain: "change-the-world-12.firebaseapp.com",
+  databaseURL: "https://change-the-world-12.firebaseio.com",
+  projectId: "change-the-world-12",
+  storageBucket: "change-the-world-12.appspot.com",
+  messagingSenderId: "221316280227",
+  appId: "1:221316280227:web:944ee2bdb5f2bbd2f47416",
+  measurementId: "G-84CG70NJMQ"
 };
 
      
