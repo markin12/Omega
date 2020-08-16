@@ -4,6 +4,15 @@
 ///Edit Under This only
 
 const firebaseConfig = {
+  apiKey: "AIzaSyBPb6l3f9jaVoxqwkOM0he2BojwL_Q8OxU",
+  authDomain: "hacked-20.firebaseapp.com",
+  databaseURL: "https://hacked-20.firebaseio.com",
+  projectId: "hacked-20",
+  storageBucket: "hacked-20.appspot.com",
+  messagingSenderId: "704875774742",
+  appId: "1:704875774742:web:f13e5fcb57febaf2cd4637",
+  measurementId: "G-PDWL84RJR5"
+}; firebaseConfig = {
   apiKey: "AIzaSyBMdA4Hyn2zz4uKkmFjlpWX0V2btm_nHDU",
   authDomain: "change-the-world-12.firebaseapp.com",
   databaseURL: "https://change-the-world-12.firebaseio.com",
